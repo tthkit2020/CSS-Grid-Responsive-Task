@@ -1,7 +1,7 @@
 # TITpe18-TITPv18
 # TARpe19
 
-* Use the layout mockups from the repository to create a fully responsive web site to advertise a Halloween party catering service
+Use the layout mockups from the repository to create a fully responsive web site to advertise a Halloween party catering service
 * The catering service provides three packages:
  - Basic: snacks and beverages. Price $100
  - Standard: snacks, beverages and costumes. Price $300
@@ -10,3 +10,4 @@
 * Choose one of the colorschemas [here](https://www.schemecolor.com/halloween-themed-color-schemes.php)
 * The website must feature a gallery with twelve images.
 * Gallery images must be animated - enlarged on hover
+* The web site must have at least three animated elements (including hover)
