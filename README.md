@@ -2,6 +2,7 @@
 # TARpe19
 
 Use the layout mockups from the repository to create a fully responsive web site to advertise a Halloween party catering service
+* The web site must have a main section with a short company introduction
 * The catering service provides three packages:
  - Basic: snacks and beverages. Price $100
  - Standard: snacks, beverages and costumes. Price $300
