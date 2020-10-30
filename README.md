@@ -11,3 +11,7 @@ Use the layout mockups from the repository to create a fully responsive web site
 * The website must feature a gallery with twelve images.
 * Gallery images must be animated - enlarged on hover
 * The web site must have at least three animated elements (including hover)
+
+## Breakpoints
+- 320px for smartphones
+- 768px for tablets
