@@ -2,6 +2,8 @@
 # TARpe19
 
 Use the layout mockups from the repository to create a fully responsive web site to advertise a Halloween party catering service
+* The web site must have a navigation menu: Home, About Us, Services, Contact Us
+* At the bottom of the web site there must be a footer providing contact information and links to social media
 * The web site must have a main section with a short company introduction
 * The catering service provides three packages:
  - Basic: snacks and beverages. Price $100
